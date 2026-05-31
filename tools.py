@@ -37,7 +37,8 @@ required_modules = [
     ("psutil", "psutil"),
     ("py-cpuinfo", "cpuinfo"),
     ("gputil", "GPUtil"),
-    ("wmi", "wmi")  
+    ("wmi", "wmi"),
+    ("setuptools", "setuptools") # Replaced distutils with setuptools
 ]
 
 ensure_modules(required_modules)
@@ -48,6 +49,7 @@ import psutil
 import cpuinfo
 import GPUtil
 import wmi 
+import setuptools # Safe to import now
 
 init(autoreset=True)
 
