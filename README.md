@@ -35,9 +35,9 @@ Future Tweaks is a versatile, all-in-one optimization tool designed to enhance, 
 
 ## 📸 Screenshots
 
-| Dashboard | Optimization Settings |
+| Dashboard | 
 |---|---|
-| ![Main UI](https://via.placeholder.com/400x250?text=Main+Dashboard+UI) | ![Tweaks UI](https://via.placeholder.com/400x250?text=Tweaks+Selection+UI) |
+| ![Main UI](https://raw.githubusercontent.com/stefanetare/13.stefannnnn.dev/refs/heads/main/Capture.PNG) | 
 
 ---
 
