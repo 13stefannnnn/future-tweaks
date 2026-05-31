@@ -21,12 +21,13 @@ Future Tweaks is a versatile, all-in-one optimization tool designed to enhance, 
 ### Prerequisites
 * Windows 10 or Windows 11 (recommended)
 * Administrator privileges (required for certain system tweaks)
+* Python installed
 
 ### Quick Start
 1. Download the latest release from the [Releases](#) page.
 2. Extract the files to your preferred directory.
-3. Run `FutureTweaks.exe` as an **Administrator**.
-4. Select the tweaks you wish to apply and click **Apply Changes**.
+3. In folder with files open cmd from path table and type 'python main.py'.
+4. Select the tweaks you wish to apply.
 
 > ⚠️ **Note:** It is highly recommended to create a **System Restore Point** before applying any deep system modifications.
 
