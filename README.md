@@ -1,7 +1,6 @@
 # Future Tweaks
 
-![License](https://img.shields.io/github/license/YOUR-USERNAME/future-tweaks)
-![Issues](https://img.shields.io/github/issues/YOUR-USERNAME/future-tweaks)
+![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 Future Tweaks is a versatile, all-in-one optimization tool designed to enhance, customize, and streamline your PC's performance. Whether you want to reduce latency, clean up system junk, or fine-tune OS settings, Future Tweaks provides a centralized interface to get the job done safely and efficiently.
 
