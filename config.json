@@ -1,0 +1,79 @@
+{
+    "categories": {
+        "1": {
+            "name": "System",
+            "options": {
+                "1": {
+                    "name": "Create a Restore Point [NOT WORKING NOW]",
+                    "event": "future:restorePoint"
+                },
+                "2": {
+                    "name": "Hardware Informations",
+                    "event": "future:systemInfo"
+                }
+
+            }
+        },
+        "2": {
+            "name": "Storage",
+            "options": {
+                "1": {
+                    "name": "Clear Temporary Files",
+                    "event": "future:clearTempFiles"
+                },
+                "2": {
+                    "name": "Open Disk Cleanup",
+                    "event": "future:diskcleanup"
+                },
+                "3": {
+                    "name": "Delete Files from Downloads",
+                    "event": "future:clearDownloads"
+                },
+                "4": {
+                    "name": "Delete FiveM cache",
+                    "event": "future:fivemCache"
+                }
+            }
+        },
+        "3": {
+            "name": "Performance",
+            "options": {
+                "1": {
+                    "name": "Enable Ultimate Performance Plan and apply it",
+                    "event": "future:ultperf"
+                },
+                "2": {
+                    "name": "Disable High precision event timer (HPET) [NOT WORKING NOW]",
+                    "event": "future:disableHPET"
+                }
+            }
+        },
+        "4": {
+            "name": "Network",
+            "options": {
+                "1": {
+                    "name": "Test Custom DNS/HOST",
+                    "event": "future:customDNS"
+                }
+            }
+        },
+        "5": {
+            "name": "Local tools",
+            "options": {
+                "1": {
+                    "name": "Auto-Clicker",
+                    "event": "future:autoclicker"
+                }
+            }
+        },
+        "6": {
+            "name": "Other tools",
+            "options": {
+                "1": {
+                    "name": "Open Chris Titus Tool (credits: Chris Titus)",
+                    "event": "future:christitus"
+                }
+            }
+        }
+    }
+}
